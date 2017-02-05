@@ -1,2 +1,2 @@
 # vimrc
-My personal vimrc
+dotfiles
